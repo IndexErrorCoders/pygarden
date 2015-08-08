@@ -4,7 +4,7 @@
 
 Il s' agit de cultures associées dans le jardinage : certaines plantes se boostent mutuellement par leur action sur le pH, leurs secrétions et leur rôle sur la flore bactériologique et mycologique etc. D'autres se font la guerre.
 
-Initialisé par buffalo974, ce projet est expliquement plus en détails sur ce post :
+Initialisé par buffalo974, ce projet est expliqué plus en détails sur ce post :
 
 - http://indexerror.net/2421/un-python-dans-le-jardin
 
