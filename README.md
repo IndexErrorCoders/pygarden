@@ -14,21 +14,30 @@ Pour en savoir plus sur la culture associée, ça se passe par là :
 
 - http://www.truffaut.com/webtv/jardin/video-bonnes-associations-plantes-jardin/id_video/146.htm
 
-# Technologies :
+# Test
+
+    python3 pygarden__ZERO_UN.py
+
+<a href="http://www.zimagez.com/zimage/capturedcran2015-08-0813-40-03.php">
+  <img src="http://www.zimagez.com/miniature/capturedcran2015-08-0813-40-03.php" />
+</a>
+
+# Technologies 
 
 - Version : Python3 
 
-- Modules : colorama, os, copy
+- Modules : colorama, os, copy (download it with pip install)
+
 
 - A venir : Kivy (pour en faire une appli de jardinage) 
 
-# Espaces de discussion autour du projet :
+# Espaces de discussion autour du projet 
 
 - IndexError : http://indexerror.net/2421/un-python-dans-le-jardin
 
 - Reddit Sam&Max : https://www.reddit.com/r/sametmax/comments/3g8fva/indexerrorcoders_pygarden/
 
-# Support :
+# Support 
 
 - Users looking for support should file an issue on the GitHub issue tracking page (https://github.com/IndexErrorCoders/pygarden/issues), 
 
@@ -36,6 +45,6 @@ Pour en savoir plus sur la culture associée, ça se passe par là :
 
 - Those who wish to contribute directly to the project can contact me at [no mail for the moment]  to talk about getting repository access granted.
 
-# En savoir plus sur l'organisation IndexErrorCoders :
+# En savoir plus sur l'organisation IndexErrorCoders 
 
 http://sametmax.com/indexerrorcoders-le-compte-github-de-la-communaute-dindexerror/
