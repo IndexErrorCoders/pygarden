@@ -35,3 +35,7 @@ Pour en savoir plus surla culture associée, ça se passe par là :
 - or file a pull request (https://github.com/IndexErrorCoders/pygarden/pulls?q=is%3Aopen+is%3Apr) if you have a fix available
 
 - Those who wish to contribute directly to the project can contact me at azedine.rouani@gmail.com to talk about getting repository access granted.
+
+# En savoir plus sur l'organisation IndexErrorCoders :
+
+http://sametmax.com/indexerrorcoders-le-compte-github-de-la-communaute-dindexerror/
