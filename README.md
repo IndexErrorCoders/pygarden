@@ -22,12 +22,6 @@ Pour en savoir plus sur la culture associée, ça se passe par là :
   <img src="http://www.zimagez.com/miniature/capturedcran2015-08-0813-40-03.php" />
 </a>
 
-# Technologies 
-
-- Version : Python3 
-
-- Modules : colorama, os, copy (download it with pip install)
-
 
 - A venir : Kivy (pour en faire une appli de jardinage) 
 
