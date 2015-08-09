@@ -14,16 +14,20 @@ Pour en savoir plus sur la culture associée, ça se passe par là :
 
 - http://www.truffaut.com/webtv/jardin/video-bonnes-associations-plantes-jardin/id_video/146.htm
 
+# Dependences 
+
+To install all dependences, make :
+
+	pip install -r requirements.txt
+
 # Test / Interface
 
-    python3 pygarden__ZERO_UN.py
+    python3 pygarden_v01.py
 
 <a href="http://www.zimagez.com/zimage/capturedcran2015-08-0813-40-03.php">
   <img src="http://www.zimagez.com/miniature/capturedcran2015-08-0813-40-03.php" />
 </a>
 
-
-- A venir : Kivy (pour en faire une appli de jardinage) 
 
 # Espaces de discussion autour du projet 
 
